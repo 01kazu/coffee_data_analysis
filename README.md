@@ -2,7 +2,7 @@
 ![dashboard](assets/images/dashboard.png)
 
 ## Metrics and Dimensions
-- **Revenue**: Total Revenue from Astoria, Hell's Kitchen and Lower Manhattan
+- **Revenue**: All Revenue from Astoria, Hell's Kitchen and Lower Manhattan
 - **Store Location**: Astoria, Hell's Kitchen and Lower Manhattan
 - **Transaction Date**: Date when products were purchased
 - **Transaction Time**: Time when products were purchased.
